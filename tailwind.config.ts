@@ -12,6 +12,17 @@ const config: Config = {
         "home-fon": "url(/src/assets/images/coffee.jpg)",
       },
     },
+    colors: {
+      textColor: "#222",
+      borderInput: "#222",
+      buttom: "#fb9b0c",
+      white: "#ffff",
+    },
+    screens: {
+      mobile: "480px",
+      tablet: "640px",
+      laptop: "1024px",
+    },
   },
   plugins: [],
 };
